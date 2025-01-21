@@ -175,7 +175,7 @@ const Shop = () => {
         {products.map((product) => (
           <div
             key={product.id}
-            className="border border-gray-200 p-4 rounded hover:shadow-lg transition-shadow"
+            className="p-4 rounded hover:shadow-lg transition-shadow"
           >
             <Image
               src={product.image}

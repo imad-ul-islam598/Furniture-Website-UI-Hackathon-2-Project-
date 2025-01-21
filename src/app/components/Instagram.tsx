@@ -5,7 +5,7 @@ const Instagram: React.FC = () => {
         <section
             className="relative bg-yellow-50 py-16 text-center bg-cover bg-center bg-no-repeat"
             style={{
-                backgroundImage: "url('/Instagram-section-image.svg')",
+                backgroundImage: "url('/Home Section Images/instagram-section-image.jpg')",
             }}
         >
             <div className="relative z-10">
